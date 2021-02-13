@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Amazon-Ember-Regular";
+  src: url(./fonts/Amazon-Ember-Regular.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+:root {
+  /* navbar and lower footer */
+  --navDark: #131921;
+  /* lower navber and mid footer */
+  --navDarkLight: #232f3e;
+  /* amazone yellow */
+  --color3: #f3a847;
+  /* top of footer */
+  --color4: #485769;
+  /* p font color */
+  --color5: #007185;
+  /* box gray font */
+  --color6: #444444;
+  /* footer gray font */
+  --color7: #dddddd;
+  /* lower footer gray font */
+  --color8: #999999;
+  --color9: #dadada;
+  --main-font: "Amazon-Ember-Regular", serif;
+  --max-width: 1600px;
+}
+/* best seller #C45500  */
+/* #0066c0 check blue  */
+/* #FF9900   */
