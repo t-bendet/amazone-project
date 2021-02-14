@@ -67,7 +67,6 @@ span {
 .nav-box img {
   padding-bottom: 3px;
 }
-/* TODO do i need the search bar? */
 .serach-bar {
   height: 45px;
   display: flex;
@@ -76,9 +75,7 @@ span {
   min-width: 780px;
   border: solid 1px black;
 }
-.serach-bar input:focus {
-  /* TODO change color on focus */
-}
+/* TODO change color on focus */
 .search-bar__drop-down {
   height: 100%;
   display: flex;
